@@ -15,7 +15,7 @@ header {
   margin: 3rem;
   border-radius: 10px;
   padding: 1rem;
-  background-color: #1b995e;
+  background-color: #1b6ca6;
   color: white;
   text-align: center;
 }
@@ -30,8 +30,8 @@ header {
 
 #assignment h2 {
   font-size: 2rem;
-  border-bottom: 4px solid #ccc;
-  color: #1b995e;
+  border-bottom: 4px solid #4d9de8;
+  color: #1b6ca6;
   margin: 0 0 1rem 0;
 }
 
@@ -45,7 +45,7 @@ header {
   margin: 1rem 0;
   font-size: 1.25rem;
   font-weight: bold;
-  background-color: #8ddba4;
+  background-color: #c7e2ff;
   padding: 0.5rem;
   color: #1f1f1f;
   border-radius: 25px;
@@ -54,19 +54,21 @@ header {
 #assignment input {
   font: inherit;
   border: 1px solid #ccc;
+  border-radius: 2rem;
+  margin: 8px;
 }
 
 #assignment input:focus {
   outline: none;
-  border-color: #1b995e;
-  background-color: #d7fdeb;
+  border-color: #1b6ca6;
+  background-color: #d7f1ff;
 }
 
 #assignment button {
   font: inherit;
   cursor: pointer;
-  border: 1px solid #ff0077;
-  background-color: #ff0077;
+  border: 1px solid #ff4500;
+  background-color: #ff4500;
   color: white;
   padding: 0.05rem 1rem;
   box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.26);
@@ -74,7 +76,7 @@ header {
 
 #assignment button:hover,
 #assignment button:active {
-  background-color: #ec3169;
-  border-color: #ec3169;
+  background-color: #ff5733;
+  border-color: #ff5733;
   box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.26);
 }
